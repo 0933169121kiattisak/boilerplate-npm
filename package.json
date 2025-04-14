@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "kiattisak",
   "dependencies": {
     "express": "^4.21.2"
   },
@@ -16,7 +17,6 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-  "version": "1.0.0",
-  "author": "kiattisak"
+  "version": "1.0.0"
   
 }
